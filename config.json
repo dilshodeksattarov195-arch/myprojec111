@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "smsfender",
+        "uuid": 308802,
+        "checksum": "fi6baj"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": false,
+        "mode": "production"
+    }
+}
